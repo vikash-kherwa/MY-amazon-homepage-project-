@@ -22,9 +22,9 @@ It’s a static project meant for learning purposes.
 - Hero section  
 - Product grid (shop section)  
 - Multi-column footer
-
 ## 📸 Preview
 ![Preview](images/amazon_homepage.png)
+
 
 
 ## 🚀 How to Run
