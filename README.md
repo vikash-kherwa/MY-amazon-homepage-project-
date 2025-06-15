@@ -23,7 +23,7 @@ It’s a static project meant for learning purposes.
 - Product grid (shop section)  
 - Multi-column footer
 ## 📸 Preview
-![Preview](images/amazon_homepage.png)
+![Preview](images/Amazon_homepage.png)
 
 
 
