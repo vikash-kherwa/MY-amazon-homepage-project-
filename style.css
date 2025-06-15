@@ -164,7 +164,7 @@
 /* hero section */
 
 .hero-secton {
-    background-image: url(Heroimage.png);
+    background-image: url(images/Heroimage.png);
     height: 600px;
     background-size: cover;
     height: 50vh;
@@ -273,8 +273,8 @@ ul a {
     align-items: center;         /* Centers content vertically */
 }
 
-.logo2 {
-    background-image: url(White-Amazon-Logo-PNG-HD-Quality.png);
+.logo2 {background-image: url(images/White-Amazon-Logo-PNG-HD-Quality.png);
+
     background-size: cover;
     height: 50px;
     width: 150px;
