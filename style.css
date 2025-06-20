@@ -202,7 +202,6 @@
     margin-top: 15px;
     height: 400px;
     width: 23%;
-    /* width: 100px; */
     padding: 20px 0 15px 0;
     background-color: white;
 }
@@ -283,6 +282,7 @@ ul a {
 .foot-panel-4 {
     height:90px;
     background-color: #222f3d;
+    text-align: center;
 }
 
 .foot-panel-4 a {
